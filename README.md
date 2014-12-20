@@ -1,4 +1,4 @@
-#pygoogle python3 multilingual
+#Pygoogle Python3 Multilingual
 
 The original pygoogle is here --> https://code.google.com/p/pygoogle/
 
@@ -8,7 +8,7 @@ I also can't find any custom version of it fulfills my needs,so I do it by mysel
 
 This is just the python3 version support the chinese queries(works on other languages too I think).
 
-#retrieve google search result
+#Retrieve Google Search Result
 
 The ajax api used by pygoogle seems not to perform very well,often yeild weird searching result.
 
