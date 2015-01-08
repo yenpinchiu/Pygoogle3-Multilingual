@@ -10,6 +10,6 @@ This is just the python3 version support the chinese queries(works on other lang
 
 #Retrieve Google Search Result
 
-The ajax api used by pygoogle seems not to perform very well,often yeild weird searching result.
+The ajax api used by pygoogle seems not to perform very well and yield weird searching results in many conditions.
 
 I directly download the google search result page and parse it by beautifulsoup.
